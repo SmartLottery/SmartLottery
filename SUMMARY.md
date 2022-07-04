@@ -5,10 +5,22 @@
 ## Overview
 
 * [Page 1](overview/page-1.md)
+* [Ⓜ About SmartLottery](overview/about-smartlottery.md)
+* [💠 Why it Smart Lottery?](overview/why-it-smart-lottery.md)
+* [🌐 How it Works Smart Lottery?](overview/how-it-works-smart-lottery/README.md)
+  * [⚫ PLAY](overview/how-it-works-smart-lottery/play.md)
+  * [🔵 WIN](overview/how-it-works-smart-lottery/win.md)
+  * [⚫ STAKE](overview/how-it-works-smart-lottery/stake.md)
+  * [🔵 EARN](overview/how-it-works-smart-lottery/earn.md)
+  * [⚫ LOTTERY](overview/how-it-works-smart-lottery/lottery.md)
+  * [🔵 SMT](overview/how-it-works-smart-lottery/smt.md)
 
 ## tokenomics
 
-* [Page 2](tokenomics/page-2.md)
+* [🏆 SMT](tokenomics/smt.md)
+* [🪙 Token Distribution](tokenomics/token-distribution.md)
+* [🔁 Road Map](tokenomics/road-map.md)
+* [↔ Awesome Team](tokenomics/awesome-team.md)
 
 ## SOCIAL MEDIA
 
