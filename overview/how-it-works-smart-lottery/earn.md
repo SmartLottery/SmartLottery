@@ -5,4 +5,6 @@ coverY: 0
 
 # 🔵 EARN
 
-2 ways to earn: earn through winning the lottery & earn through staking your SMT.
+### &#x20;2 ways to earn: earn through winning the lottery & earn through staking your SMT.
+
+![](../../.gitbook/assets/photo\_2022-07-01\_18-58-24.jpg)

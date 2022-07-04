@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [Page 1](overview/page-1.md)
+* [☑ Smart Lottery Decentralized](overview/smart-lottery-decentralized.md)
 * [Ⓜ About SmartLottery](overview/about-smartlottery.md)
 * [💠 Why it Smart Lottery?](overview/why-it-smart-lottery.md)
 * [🌐 How it Works Smart Lottery?](overview/how-it-works-smart-lottery/README.md)

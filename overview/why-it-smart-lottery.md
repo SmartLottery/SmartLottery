@@ -6,8 +6,5 @@ coverY: 0
 
 # 💠 Why it Smart Lottery?
 
-* [x] Low Fees
-* [x] Big Rewards
-* [x] Decentrlized
-* [x] Big Chances to win Jackpot
+![LOW FEES](../.gitbook/assets/photo\_2022-07-01\_18-58-20.jpg) ![BIG REWARDS](<../.gitbook/assets/photo\_2022-07-01\_18-58-23 (2).jpg>) ![DECENTRALIZED](../.gitbook/assets/photo\_2022-07-01\_18-58-21.jpg) ![BIG CHANCES TO WIN JACKPOT](<../.gitbook/assets/photo\_2022-07-01\_18-58-21 (2).jpg>)
 

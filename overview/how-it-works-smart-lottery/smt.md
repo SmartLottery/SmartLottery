@@ -5,4 +5,6 @@ coverY: 0
 
 # 🔵 SMT
 
-SMT is the deflationary Binanace Smart Chain token underpinning the Smart Lottery platform
+### SMT is the deflationary Binanace Smart Chain token underpinning the Smart Lottery platform
+
+![](<../../.gitbook/assets/photo\_2022-07-01\_18-58-22 (2).jpg>)
