@@ -29,3 +29,5 @@
 * [🔹 Medium](https://medium.com/@SmartLottery)
 * [▪ Reddit](https://www.reddit.com/user/SmartLotteryean/)
 * [🔹 Linktree](https://linktr.ee/smartlottery)
+* [▪ Discord](https://discord.gg/GYDvy8y9wF)
+* [🔹 Twitter](https://twitter.com/SmartLottery1)
