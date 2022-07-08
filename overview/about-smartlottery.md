@@ -7,4 +7,4 @@ coverY: 0
 
 ## A Decentralized Smart Lottery made by qualified professionals with years of experience in the market
 
-The idea of creating the Smart Lottery came about due to the financial difficulties faced by many today, we seek to bring a profitable project to our investors, with low transaction costs, a stable network, with rewards, a sustainable project in the long term.
+A decentralized Defi Staking crypto and lottery platform Luck2Earn. SMT is a token on the Binance Smart Chain Network, designed to be stable, secure and profitable for our investors Buy tickets, play lottery and win prizes and rewards, bet SMT and earn tokens!
