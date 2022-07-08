@@ -23,5 +23,7 @@ KYC:\
 \
 Audit:\
 \
-Fairlaunch&#x20;
+Fairlaunch \
+\
+Contract Official: [https://bscscan.com/address/0xfea099bb53daf7bb7248042e53983d8715816aa4](https://bscscan.com/address/0xfea099bb53daf7bb7248042e53983d8715816aa4)
 
