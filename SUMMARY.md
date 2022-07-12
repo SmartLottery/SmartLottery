@@ -27,7 +27,7 @@
 
 * [🔹 Linktree](https://linktr.ee/smartlottery)
 * [▪ Youtube](https://www.youtube.com/channel/UCQ7E0nKXSS96ZoOhApz40IQ)
-* [🔹 Website](https://smartlotery.io/)
+* [🔹 Website](https://smartlotterydefi.io/)
 * [▪ Discord](https://discord.gg/GYDvy8y9wF)
 * [🔹 Medium](https://medium.com/@SmartLottery)
 * [▪ Reddit](https://www.reddit.com/user/SmartLotteryean/)
