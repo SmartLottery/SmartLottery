@@ -17,6 +17,10 @@ Total token supply - 0.000.000
 * 50% Presale
 * 27% Liquidity
 
+<!---->
+
+* [x] LOW FEES TRANSACTIONS BUY 3% / SELL 3%
+
 \
 
 
