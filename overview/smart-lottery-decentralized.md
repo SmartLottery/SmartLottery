@@ -7,7 +7,7 @@ coverY: 0
 
 Deposit into Smart Lottery to receive tickets for your chance to win! Each ticket raises the price of SMT.
 
-* [x] LOW FEES TRANSACTIONS BUY % / SELL %
+* [x] LOW FEES TRANSACTIONS BUY 3% / SELL 3%
 * [x] HOLDERS RECEIVE REWARDS FROM EVERY LOTTERY
 * [x] PROJECT AUTHENTICATED AND VALIDATED WITH SPECIALIZED COMPANIES
 
