@@ -14,7 +14,7 @@
   * [🔵 EARN](overview/how-it-works-smart-lottery/earn.md)
   * [⚫ LOTTERY](overview/how-it-works-smart-lottery/lottery.md)
   * [🔵 SMT](overview/how-it-works-smart-lottery/smt.md)
-* [NFT's SmartLottery](overview/nfts-smartlottery.md)
+* [#⃣ NFT's SmartLottery](overview/nfts-smartlottery.md)
 
 ## tokenomics
 
