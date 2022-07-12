@@ -22,6 +22,7 @@ Amidst the growth of this segment SmartLottery has come to revolutionize, bringi
 KYC:\
 \
 Audit:\
+[https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/SmartLottery\_0xfEA099BB53daF7Bb7248042e53983d8715816Aa4.pdf](https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/SmartLottery\_0xfEA099BB53daF7Bb7248042e53983d8715816Aa4.pdf)\
 \
 Fairlaunch \
 \
