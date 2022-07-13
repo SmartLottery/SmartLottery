@@ -7,7 +7,7 @@ coverY: 0
 
 ## Allocation of Tokens
 
-Total token supply - 0.000.000
+Total token supply - 200,000,000
 
 
 
@@ -19,7 +19,9 @@ Total token supply - 0.000.000
 
 <!---->
 
-* [x] LOW FEES TRANSACTIONS BUY 3% / SELL 3%
+* [x] LOW FEES TRANSACTIONS BUY 3% / SELL 3%\
+
+* [x] Contract Official: 0x3a54FA5eBf9f51bd6284903DE42cF666AF3129C4
 
 {% embed url="https://www.youtube.com/watch?v=EHXX1tBM8BA" %}
 

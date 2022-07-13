@@ -27,5 +27,6 @@ Audit:\
 \
 Fairlaunch \
 \
-Contract Official: [https://bscscan.com/address/0xfea099bb53daf7bb7248042e53983d8715816aa4](https://bscscan.com/address/0xfea099bb53daf7bb7248042e53983d8715816aa4)
+Contract Official:\
+0x3a54FA5eBf9f51bd6284903DE42cF666AF3129C4&#x20;
 
