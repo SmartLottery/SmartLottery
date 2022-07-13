@@ -21,6 +21,8 @@ Total token supply - 0.000.000
 
 * [x] LOW FEES TRANSACTIONS BUY 3% / SELL 3%
 
+{% embed url="https://www.youtube.com/watch?v=EHXX1tBM8BA" %}
+
 \
 
 

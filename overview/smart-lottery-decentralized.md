@@ -11,3 +11,5 @@ Deposit into Smart Lottery to receive tickets for your chance to win! Each ticke
 * [x] HOLDERS RECEIVE REWARDS FROM EVERY LOTTERY
 * [x] PROJECT AUTHENTICATED AND VALIDATED WITH SPECIALIZED COMPANIES
 
+{% embed url="https://youtu.be/dN0H6_cHHHQ" %}
+

@@ -18,6 +18,8 @@ Amidst the growth of this segment SmartLottery has come to revolutionize, bringi
 
 ### Buy tickets, play the lottery and win prizes and rewards, bet SMT and win tokens!
 
+{% embed url="https://youtu.be/HaxfECi9RFM" %}
+
 \
 KYC:\
 \
